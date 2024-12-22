@@ -3,6 +3,12 @@
 
 ## Ollama 3.2 - AI Chat with Memories and Sentiment Analysis
 
+<p align="center">
+  <a href="https://github.com/ericmaddox/neurollama-ai">
+    <img src="https://github.com/ericmaddox/neurollama-ai/blob/main/media/neurollama_ai.JPEG" alt="NeuroLlama AI" width="200" />
+  </a>
+</p>
+
 This Python script enables an interactive chat with an AI that adjusts its responses based on the sentiment of the user's input. It uses text-to-speech (TTS) to speak the AI's responses and maintains conversation history in a file for continuity. The conversation history is saved, allowing the AI to recall memories from previous sessions and maintain context across interactions. The AI's responses are generated using **Ollama 3.2**, and sentiment analysis is performed with **TextBlob** to gauge the emotional tone of user input, allowing the AI to respond appropriately to frustration or positivity.
 
 ## Table of Contents
