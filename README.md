@@ -3,6 +3,12 @@
 
 ## Ollama 3.2 - AI Chat with Memories and Sentiment Analysis
 
+![License](https://img.shields.io/badge/license-MIT-green)
+![GitHub Issues](https://img.shields.io/github/issues/ericmaddox/neurollama-ai)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/ericmaddox/neurollama-ai)
+![GitHub Forks](https://img.shields.io/github/forks/ericmaddox/neurollama-ai?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/ericmaddox/neurollama-ai?style=social)
+
 <p align="center">
   <a href="https://github.com/ericmaddox/neurollama-ai">
     <img src="https://github.com/ericmaddox/neurollama-ai/blob/main/media/neurollama_ai.JPEG" alt="NeuroLlama AI" width="200" />
@@ -96,3 +102,6 @@ Contributions are welcome! Please open an issue or submit a pull request.
 ## License
 
 This script is open-source and has an MIT license. Feel free to use and modify it for your personal or professional projects.
+<div align="right">
+  <img src="https://hits.dwyl.com/ericmaddox/neurollama-ai.svg?style=for-the-badge&color=2d343c&labelColor=81c7ff&label=Visitors" alt="GitHub Repository Visit Counter" />
+</div>
