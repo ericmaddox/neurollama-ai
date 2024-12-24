@@ -2,7 +2,7 @@
 # NeurOllama AI
 
 ## Ollama 3.2 - AI Chat with Memories and Sentiment Analysis
-
+[![Powered by Ollama](https://img.shields.io/badge/Powered%20by-Ollama-blue)](https://ollama.com)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![GitHub Issues](https://img.shields.io/github/issues/ericmaddox/neurollama-ai)
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/ericmaddox/neurollama-ai)
